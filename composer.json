@@ -15,10 +15,7 @@
         }
     ],
     "require": {
-        "php": ">=5.5.9",
-        "royalcms/contracts": "5.0.*",
-        "royalcms/filesystem": "5.0.*",
-        "royalcms/support": "5.0.*"
+        "php": ">=5.5.9"
     },
     "autoload": {
         "psr-4": {
